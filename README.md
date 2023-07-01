@@ -1,4 +1,3 @@
-/*
  *  Bir havayolu şirketi bilet alma sistemi tasarlamamız gerekiyor.
  *
  *  Case 1
@@ -17,4 +16,3 @@
  *
  *  Case4
  *  Uçaklarda ekonomi ve business koltuğu olan uçaklar varsa hesaplama ona göre yapılmalı.
- */
